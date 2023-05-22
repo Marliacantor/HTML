@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY CV</title>
+</head>
+<body>
+    <header>
+        <center>
+            <h1>HOJA DE VIDA</h1>
+            <h2>MARLIA CANTOR TURRIAGO</h2>
+            <img src="image-profile.jpg" alt="foto de perfil" width="100px" class="image-profile">
+        </center>
+        <br>
+        <nav>
+            <a href="#">cantormarlia@gmail.com</a>
+        </nav>
+        <p>3232268046</p>
+    </header>
+    <main>
+        <article> Experiencia en seguridad electrónica con sistemas de detección, asesoramiento tecnico y comercial</article>
+    </main> 
+    <br>
+    <br>
+        <section> 
+            <H3>EXPERIENCIA LABORAL</H3>
+                <P>PROSEGUR SEGURIDAD ELECTRONICA</P> 
+            <p>Técnico Online  -a la fecha</p>
+            <p>Soporte en línea de sistemas de intrusión, diagnóstico de fallas a dispositivos de seguridad eléctronica. Coordinación de mantenimientos y reparaciones. Asesor telemarketing y facturacion</p>
+        </section>
+    <br>
+    <section>
+        <H3>ESTUDIOS REALIZADOS</H3>
+        <ul>
+            <li> I.E.D. Hernán Venegas Carrillo -Bachiller</li>
+            <li> SENA -Técnico Gestión empresarial </li>
+            <li> DEVF -Desarrollador web</li>
+        </ul>
+    </section>
+    <br>
+    <section>
+        <H3>IDIOMAS</H3>
+        <P>Inglés A1</P>
+    </section>
+    <br>
+    <br>
+    <button>derechos de autor</button>
+</body>
+</html>
